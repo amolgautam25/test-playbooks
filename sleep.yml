@@ -1,6 +1,6 @@
 ---
 
-- name: 'Test playbook to sleep for a specified interval'
+- name: 'Test \u0000  playbook to sleep for a specified interval'
   hosts: all
   gather_facts: false
   vars:
